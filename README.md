@@ -9,6 +9,7 @@ In no particular order:
 * [Thomas Enebo](http://blog.enebo.com/) - [Sun](https://blogs.oracle.com/ontherecord/entry/sun_welcomes_jruby_developers), [Engine Yard](http://www.pcworld.com/article/169145/article.html), [Red Hat](http://www.theregister.co.uk/2012/05/23/red_hat_hires_j_ruby_brains/) ([JRuby](http://www.jruby.org/))
 * [Nick Sieger](http://blog.nicksieger.com/) - [Sun](http://blog.nicksieger.com/articles/2007/07/26/gig-jruby-and-glassfish-hackfest/), [Engine Yard](http://www.pcworld.com/article/169145/article.html) ([JRuby](http://www.jruby.org/))
 * [Ola Bini](https://olabini.com/) - [ThoughtWorks](http://ola-bini.blogspot.com/2007/03/thoughtworks.html) ([JRuby](http://www.jruby.org/))
+* [David Recordon](https://en.wikipedia.org/wiki/David_Recordon) - [Facebook](http://news.cnet.com/8301-13577_3-10317542-36.html#!) ([OpenID](http://openid.net/))
 
 ## Unconfirmed
 
