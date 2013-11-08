@@ -14,6 +14,7 @@ In no particular order:
 ## Unconfirmed
 
 * [Alex Martelli](http://www.aleax.it/) - [Google](http://stackoverflow.com/a/2561008/120999) ([Python](http://www.aleax.it/python_mat_en.html))
+* [Chris DiBona](http://www.dibona.com/) - [Google](http://www.linkedin.com/in/cdibona) ([Slashdot](http://www.wired.com/techbiz/media/news/2002/10/55682), [Open Sources](http://oreilly.com/openbook/opensources/book/index.html))
 
 # Funding without Employment
 
