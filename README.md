@@ -24,3 +24,4 @@ In no particular order:
 * [Junio Hamano](http://git-blame.blogspot.com/) - [Google](http://www.linkedin.com/in/gitster) ([Git](http://marc.info/?l=git&m=112243466603239))
 * [Jeremy Allison](https://www.samba.org/~jra/) - [HP, Google](http://www.linkedin.com/in/jeremyallison) ([Samba](https://www.samba.org/))
 * [Greg Stein](http://prng.blogspot.com/) - Google, [unknown](http://prng.blogspot.com/2008/07/transitions.html) ([Apache Software Foundation](https://www.apache.org/foundation/), [Python](http://www.python.org/), [Subversion](https://subversion.apache.org/))
+* [Joshua Bloch](https://en.wikipedia.org/wiki/Joshua_Bloch) - [Google](https://web.archive.org/web/20070529205555/http://java.sun.com/javaone/sf/2007/articles/rockstar_bloch.jsp) ([Java, Effective Java](http://www.oracle.com/technetwork/java/effectivejava-136174.html))
