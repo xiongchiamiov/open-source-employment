@@ -15,6 +15,7 @@ In no particular order:
 
 * [Alex Martelli](http://www.aleax.it/) - [Google](http://stackoverflow.com/a/2561008/120999) ([Python](http://www.aleax.it/python_mat_en.html))
 * [Chris DiBona](http://www.dibona.com/) - [Google](http://www.linkedin.com/in/cdibona) ([Slashdot](http://www.wired.com/techbiz/media/news/2002/10/55682), [Open Sources](http://oreilly.com/openbook/opensources/book/index.html))
+* [Junio Hamano](http://git-blame.blogspot.com/) - [Google](http://www.linkedin.com/in/gitster) ([Git](http://marc.info/?l=git&m=112243466603239))
 
 # Funding without Employment
 
