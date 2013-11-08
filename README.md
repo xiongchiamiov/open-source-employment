@@ -10,6 +10,7 @@ In no particular order:
 * [Nick Sieger](http://blog.nicksieger.com/) - [Sun](http://blog.nicksieger.com/articles/2007/07/26/gig-jruby-and-glassfish-hackfest/), [Engine Yard](http://www.pcworld.com/article/169145/article.html) ([JRuby](http://www.jruby.org/))
 * [Ola Bini](https://olabini.com/) - [ThoughtWorks](http://ola-bini.blogspot.com/2007/03/thoughtworks.html) ([JRuby](http://www.jruby.org/))
 * [David Recordon](https://en.wikipedia.org/wiki/David_Recordon) - [Facebook](http://news.cnet.com/8301-13577_3-10317542-36.html#!) ([OpenID](http://openid.net/))
+* [Guido van Rossum](http://www.python.org/~guido/) - [Google](https://groups.google.com/forum/#!topic/comp.lang.python/MtyVvWcVQvM%5B1-25-false%5D), [Dropbox](https://tech.dropbox.com/2012/12/welcome-guido/) ([Python](http://www.python.org/))
 
 ## Unconfirmed
 
