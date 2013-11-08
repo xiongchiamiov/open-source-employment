@@ -12,15 +12,15 @@ In no particular order:
 * [David Recordon](https://en.wikipedia.org/wiki/David_Recordon) - [Facebook](http://news.cnet.com/8301-13577_3-10317542-36.html#!) ([OpenID](http://openid.net/))
 * [Guido van Rossum](http://www.python.org/~guido/) - [Google](https://groups.google.com/forum/#!topic/comp.lang.python/MtyVvWcVQvM%5B1-25-false%5D), [Dropbox](https://tech.dropbox.com/2012/12/welcome-guido/) ([Python](http://www.python.org/))
 
-## Unconfirmed
+# Funding without Employment
+
+* Mike Pall - [corporate sponsorship](http://luajit.org/sponsors.html) ([LuaJIT](http://luajit.org/))
+* [Eric Holscher](http://ericholscher.com/about/) - [Gittip](http://ericholscher.com/blog/2013/sep/25/help-me-improve-documentation/) ([Read the Docs](https://readthedocs.org/))
+
+# Suspected, but Unconfirmed
 
 * [Alex Martelli](http://www.aleax.it/) - [Google](http://stackoverflow.com/a/2561008/120999) ([Python](http://www.aleax.it/python_mat_en.html))
 * [Chris DiBona](http://www.dibona.com/) - [Google](http://www.linkedin.com/in/cdibona) ([Slashdot](http://www.wired.com/techbiz/media/news/2002/10/55682), [Open Sources](http://oreilly.com/openbook/opensources/book/index.html))
 * [Junio Hamano](http://git-blame.blogspot.com/) - [Google](http://www.linkedin.com/in/gitster) ([Git](http://marc.info/?l=git&m=112243466603239))
 * [Jeremy Allison](https://www.samba.org/~jra/) - [HP, Google](http://www.linkedin.com/in/jeremyallison) ([Samba](https://www.samba.org/))
 * [Greg Stein](http://prng.blogspot.com/) - Google, [unknown](http://prng.blogspot.com/2008/07/transitions.html) ([Apache Software Foundation](https://www.apache.org/foundation/), [Python](http://www.python.org/), [Subversion](https://subversion.apache.org/))
-
-# Funding without Employment
-
-* Mike Pall - [corporate sponsorship](http://luajit.org/sponsors.html) ([LuaJIT](http://luajit.org/))
-* [Eric Holscher](http://ericholscher.com/about/) - [Gittip](http://ericholscher.com/blog/2013/sep/25/help-me-improve-documentation/) ([Read the Docs](https://readthedocs.org/))
