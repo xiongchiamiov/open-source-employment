@@ -10,6 +10,10 @@ In no particular order:
 * [Nick Sieger](http://blog.nicksieger.com/) - [Sun](http://blog.nicksieger.com/articles/2007/07/26/gig-jruby-and-glassfish-hackfest/), [Engine Yard](http://www.pcworld.com/article/169145/article.html) ([JRuby](http://www.jruby.org/))
 * [Ola Bini](https://olabini.com/) - [ThoughtWorks](http://ola-bini.blogspot.com/2007/03/thoughtworks.html) ([JRuby](http://www.jruby.org/))
 
+## Unconfirmed
+
+* [Alex Martelli](http://www.aleax.it/) - [Google](http://stackoverflow.com/a/2561008/120999) ([Python](http://www.aleax.it/python_mat_en.html))
+
 # Funding without Employment
 
 * Mike Pall - [corporate sponsorship](http://luajit.org/sponsors.html) ([LuaJIT](http://luajit.org/))
