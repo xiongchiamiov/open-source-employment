@@ -18,6 +18,7 @@ In no particular order:
 * [Chris DiBona](http://www.dibona.com/) - [Google](http://www.linkedin.com/in/cdibona) ([Slashdot](http://www.wired.com/techbiz/media/news/2002/10/55682), [Open Sources](http://oreilly.com/openbook/opensources/book/index.html))
 * [Junio Hamano](http://git-blame.blogspot.com/) - [Google](http://www.linkedin.com/in/gitster) ([Git](http://marc.info/?l=git&m=112243466603239))
 * [Jeremy Allison](https://www.samba.org/~jra/) - [HP, Google](http://www.linkedin.com/in/jeremyallison) ([Samba](https://www.samba.org/))
+* [Greg Stein](http://prng.blogspot.com/) - Google, [unknown](http://prng.blogspot.com/2008/07/transitions.html) ([Apache Software Foundation](https://www.apache.org/foundation/), [Python](http://www.python.org/), [Subversion](https://subversion.apache.org/))
 
 # Funding without Employment
 
