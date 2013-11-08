@@ -4,9 +4,9 @@ In no particular order:
 
 # Job Offer
 
-* [Mitch Garnaat](http://www.elastician.com/2011/12/looking-at-clouds-from-both-sides-now.html) ([boto](http://docs.pythonboto.org/en/latest/))
+* [Mitch Garnaat](https://github.com/garnaat) - [Amazon](http://www.elastician.com/2011/12/looking-at-clouds-from-both-sides-now.html) ([boto](http://docs.pythonboto.org/en/latest/))
 
 # Funding without Employment
 
-* [Mike Pall](http://luajit.org/sponsors.html) ([LuaJIT](http://luajit.org/))
-* [Eric Holscher](http://ericholscher.com/blog/2013/sep/25/help-me-improve-documentation/) ([Read the Docs](https://readthedocs.org/))
+* Mike Pall - [corporate sponsorship](http://luajit.org/sponsors.html) ([LuaJIT](http://luajit.org/))
+* [Eric Holscher](http://ericholscher.com/about/) - [Gittip](http://ericholscher.com/blog/2013/sep/25/help-me-improve-documentation/) ([Read the Docs](https://readthedocs.org/))
