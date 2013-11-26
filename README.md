@@ -17,6 +17,7 @@ In no particular order:
 
 * Mike Pall - [corporate sponsorship](http://luajit.org/sponsors.html) ([LuaJIT](http://luajit.org/))
 * [Eric Holscher](http://ericholscher.com/about/) - [Gittip](http://ericholscher.com/blog/2013/sep/25/help-me-improve-documentation/) ([Read the Docs](https://readthedocs.org/))
+* [Tobi Oetiker](http://tobi.oetiker.ch/hp/) - [corporate sponsorship](http://oss.oetiker.ch/rrdtool/sponsor.en.html), [consulting](http://www.oetiker.ch/) ([RRDtool](http://oss.oetiker.ch/rrdtool/), [MRTG](http://oss.oetiker.ch/mrtg/))
 
 # Suspected, but Unconfirmed
 
