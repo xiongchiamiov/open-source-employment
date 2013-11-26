@@ -11,6 +11,7 @@ In no particular order:
 * [Ola Bini](https://olabini.com/) - [ThoughtWorks](http://ola-bini.blogspot.com/2007/03/thoughtworks.html) ([JRuby](http://www.jruby.org/))
 * [David Recordon](https://en.wikipedia.org/wiki/David_Recordon) - [Facebook](http://news.cnet.com/8301-13577_3-10317542-36.html#!) ([OpenID](http://openid.net/))
 * [Guido van Rossum](http://www.python.org/~guido/) - [Google](https://groups.google.com/forum/#!topic/comp.lang.python/MtyVvWcVQvM%5B1-25-false%5D), [Dropbox](https://tech.dropbox.com/2012/12/welcome-guido/) ([Python](http://www.python.org/))
+* [Jordan K. Hubbard](http://www.turbofuzz.com/jkh/) - [Apple](http://www.krsaborio.net/apple/research/2001/0625.htm) ([FreeBSD](http://www.freebsd.org/))
 
 # Funding without Employment
 
