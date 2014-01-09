@@ -13,6 +13,10 @@ In no particular order:
 * [Guido van Rossum](http://www.python.org/~guido/) - [Google](https://groups.google.com/forum/#!topic/comp.lang.python/MtyVvWcVQvM%5B1-25-false%5D), [Dropbox](https://tech.dropbox.com/2012/12/welcome-guido/) ([Python](http://www.python.org/))
 * [Jordan K. Hubbard](http://www.turbofuzz.com/jkh/) - [Apple](http://www.krsaborio.net/apple/research/2001/0625.htm) ([FreeBSD](http://www.freebsd.org/))
 * [James Cammarata](https://github.com/jimi-c) - [AnsibleWorks](http://blog.ansibleworks.com/2013/12/08/the-origins-of-ansible/) ([Cobbler](http://www.cobblerd.org/))
+* [Karanbir Singh](http://wiki.centos.org/KaranbirSingh) - [Red Hat](http://lists.centos.org/pipermail/centos-announce/2014-January/020100.html) ([CentOS](http://centos.org/))
+* [Johnny Hughes Jr](http://wiki.centos.org/JohnnyHughes) - [Red Hat](http://lists.centos.org/pipermail/centos-announce/2014-January/020100.html) ([CentOS](http://centos.org/))
+* [Jim Perrin](http://www.bit-integrity.com/) - [Red Hat](http://lists.centos.org/pipermail/centos-announce/2014-January/020100.html) ([CentOS](http://centos.org/))
+* [Fabian Arrotin](http://arrfab.net/blog/) - [Red Hat](http://lists.centos.org/pipermail/centos-announce/2014-January/020100.html) ([CentOS](http://centos.org/))
 
 # Funding without Employment
 
