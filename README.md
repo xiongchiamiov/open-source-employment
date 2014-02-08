@@ -33,3 +33,4 @@ In no particular order:
 * [Greg Stein](http://prng.blogspot.com/) - Google, [unknown](http://prng.blogspot.com/2008/07/transitions.html) ([Apache Software Foundation](https://www.apache.org/foundation/), [Python](http://www.python.org/), [Subversion](https://subversion.apache.org/))
 * [Joshua Bloch](https://en.wikipedia.org/wiki/Joshua_Bloch) - [Google](https://web.archive.org/web/20070529205555/http://java.sun.com/javaone/sf/2007/articles/rockstar_bloch.jsp) ([Java, Effective Java](http://www.oracle.com/technetwork/java/effectivejava-136174.html))
 * [David Saff](http://david.saff.net/) - Google ([JUnit](http://junit.org/))
+* [Jacob Kaplan-Moss](http://jacobian.org/) - [Heroku](http://jacobian.org/writing/heroku/) ([Django](https://www.djangoproject.com/))
