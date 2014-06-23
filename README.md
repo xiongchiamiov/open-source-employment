@@ -17,6 +17,7 @@ In no particular order:
 * [Johnny Hughes Jr](http://wiki.centos.org/JohnnyHughes) - [Red Hat](http://lists.centos.org/pipermail/centos-announce/2014-January/020100.html) ([CentOS](http://centos.org/))
 * [Jim Perrin](http://www.bit-integrity.com/) - [Red Hat](http://lists.centos.org/pipermail/centos-announce/2014-January/020100.html) ([CentOS](http://centos.org/))
 * [Fabian Arrotin](http://arrfab.net/blog/) - [Red Hat](http://lists.centos.org/pipermail/centos-announce/2014-January/020100.html) ([CentOS](http://centos.org/))
+* [Ben Mills](http://remear.unfiniti.com/) - [Balanced](http://remear.unfiniti.com/i-asked-for-a-t-shirt-i-got-a-job/) ([balanced-ruby](https://github.com/balanced/balanced-ruby), [balanced-ios](https://github.com/balanced/balanced-ios), [balanced-android](https://github.com/balanced/balanced-android))
 
 # Funding without Employment
 
